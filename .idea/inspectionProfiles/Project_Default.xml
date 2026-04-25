@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="cfgv" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="common" />
+          <option value="dependencies" />
+          <option value="distlib" />
+          <option value="fastapi" />
+          <option value="filelock" />
+          <option value="h11" />
+          <option value="identify" />
+          <option value="idna" />
+          <option value="iniconfig" />
+          <option value="markdown-it-py" />
+          <option value="mdurl" />
+          <option value="nodeenv" />
+          <option value="packaging" />
+          <option value="platformdirs" />
+          <option value="pluggy" />
+          <option value="pre_commit" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="Pygments" />
+          <option value="pytest" />
+          <option value="PyYAML" />
+          <option value="rich" />
+          <option value="shellingham" />
+          <option value="sniffio" />
+          <option value="starlette" />
+          <option value="typer" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="uv" />
+          <option value="uvicorn" />
+          <option value="virtualenv" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="psycopg.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
