@@ -104,3 +104,51 @@
 {"ts": "2026-04-25T06:36:45", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "finished"}
 {"ts": "2026-04-25T06:36:46", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
 {"ts": "2026-04-25T06:36:47", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:02:21", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "набережные челны"}, "status": "started"}
+{"ts": "2026-04-25T10:02:32", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "набережные челны"}, "status": "finished"}
+{"ts": "2026-04-25T10:02:53", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "started"}
+{"ts": "2026-04-25T10:03:04", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "finished"}
+{"ts": "2026-04-25T10:05:19", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "started"}
+{"ts": "2026-04-25T10:05:20", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "finished"}
+{"ts": "2026-04-25T10:05:22", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:05:32", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:06:27", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "started"}
+{"ts": "2026-04-25T10:06:29", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "finished"}
+{"ts": "2026-04-25T10:06:31", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:06:32", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:10:49", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "started"}
+{"ts": "2026-04-25T10:10:52", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "finished"}
+{"ts": "2026-04-25T10:10:54", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:10:55", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:18:38", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "набережные челны"}, "status": "started"}
+{"ts": "2026-04-25T10:18:39", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "набережные челны"}, "status": "finished"}
+{"ts": "2026-04-25T10:18:42", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:18:43", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:27:24", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "started"}
+{"ts": "2026-04-25T10:27:26", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "finished"}
+{"ts": "2026-04-25T10:27:27", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:27:28", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:27:45", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "самаре"}, "status": "started"}
+{"ts": "2026-04-25T10:27:47", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "самаре"}, "status": "finished"}
+{"ts": "2026-04-25T10:27:48", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Asia/Manila"}, "status": "started"}
+{"ts": "2026-04-25T10:27:49", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Asia/Manila"}, "status": "finished"}
+{"ts": "2026-04-25T10:29:16", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "санкт-петербурге"}, "status": "started"}
+{"ts": "2026-04-25T10:29:17", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "санкт-петербурге"}, "status": "finished"}
+{"ts": "2026-04-25T10:29:19", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:29:19", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:30:10", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "казани"}, "status": "started"}
+{"ts": "2026-04-25T10:30:11", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "казани"}, "status": "finished"}
+{"ts": "2026-04-25T10:33:40", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "казани"}, "status": "started"}
+{"ts": "2026-04-25T10:33:42", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "казани"}, "status": "finished"}
+{"ts": "2026-04-25T10:33:44", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:33:45", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:33:47", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "started"}
+{"ts": "2026-04-25T10:33:49", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "москве"}, "status": "finished"}
+{"ts": "2026-04-25T10:33:51", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:33:51", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
+{"ts": "2026-04-25T10:33:55", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "qwertycity"}, "status": "started"}
+{"ts": "2026-04-25T10:33:55", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "qwertycity"}, "status": "finished"}
+{"ts": "2026-04-25T10:34:29", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "казани"}, "status": "started"}
+{"ts": "2026-04-25T10:34:31", "server": "weather_server.py", "tool": "get_weather", "args": {"city": "казани"}, "status": "finished"}
+{"ts": "2026-04-25T10:34:32", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "started"}
+{"ts": "2026-04-25T10:34:33", "server": "time_server.py", "tool": "get_local_time", "args": {"timezone": "Europe/Moscow"}, "status": "finished"}
